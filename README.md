@@ -1,8 +1,8 @@
 <h1 align="center">👋 Ooi! Seja bem-vindo ao meu GitHub!</h1>
+
 <img src="https://tenor.com/pt-BR/view/かみ太-gif-15520479789728032408" width="400">
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+TI;Aprendendo+Programação;Bem-vindo+ao+meu+perfil!&center=true&width=500&height=50">
-</p>
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rukasu441&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukasu441&layout=compact&theme=tokyonight"/>
