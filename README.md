@@ -1,4 +1,6 @@
-<img width="200" height=auto alt="squirtle" src="https://github.com/user-attachments/assets/07dcbdb3-2083-45cf-9f1b-4154f11d5e8a" />
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/07dcbdb3-2083-45cf-9f1b-4154f11d5e8a" />
+</p>
 <h1 align="center">👋 Ooi! Seja bem-vindo ao meu GitHub!</h1>
 
 <img src="https://tenor.com/pt-BR/view/かみ太-gif-15520479789728032408" width="400">
