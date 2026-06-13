@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/07dcbdb3-2083-45cf-9f1b-4154f11d5e8a" />
+  <img width="250" alt="squirtle" src="https://github.com/user-attachments/assets/07dcbdb3-2083-45cf-9f1b-4154f11d5e8a" />
 </p>
 <h1 align="center">👋 Ooi! Seja bem-vindo ao meu GitHub!</h1>
 
